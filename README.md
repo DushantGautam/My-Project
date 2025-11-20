@@ -7,7 +7,7 @@ A simple and professional overview of my key academic projects with short descri
 A web-based system for managing products, stock levels, categories, and sales with **role-based access** (Admin, Special User, Employee).  
 Built using **PHP, MySQL, HTML, CSS, JavaScript**.
 
-🔗 **GitHub Repository:** https://github.com/yourusername/inventory-management-system
+🔗 **GitHub Repository:** https://github.com/DushantGautam/inventory-management-system.git
 
 ---
 
@@ -15,7 +15,7 @@ Built using **PHP, MySQL, HTML, CSS, JavaScript**.
 A basic e-commerce website featuring **user login, product browsing, cart system, checkout, order history**, and profile management.  
 Created using **PHP, HTML, CSS, JavaScript**, with session-based data handling.
 
-🔗 **GitHub Repository:** https://github.com/yourusername/amazon-clone
+🔗 **GitHub Repository:** https://github.com/DushantGautam/Amazon_clone.git
 
 ---
 
@@ -23,7 +23,7 @@ Created using **PHP, HTML, CSS, JavaScript**, with session-based data handling.
 A simple command-line game where users guess a hidden word with limited attempts, hints, scoring, and multiple difficulty levels.  
 Built using **core Python**, loops, conditions, and the random module.
 
-🔗 **GitHub Repository:** https://github.com/dus123/password-guess-game
+🔗 **GitHub Repository:** https://github.com/DushantGautam/password-guess-game.git
 
 ---
 
